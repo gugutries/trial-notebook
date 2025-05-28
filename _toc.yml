@@ -1,0 +1,5 @@
+format: jb-book
+root: intro
+chapters:
+  - file: notebooks/session_template
+  - file: notebooks/2025-05-25-scan-log
